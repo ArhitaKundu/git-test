@@ -1,4 +1,2 @@
-# Git
-
-
-"Hello Git"
+ # Go
+yay
